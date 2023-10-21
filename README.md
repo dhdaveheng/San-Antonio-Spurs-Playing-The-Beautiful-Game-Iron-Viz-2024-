@@ -1,2 +1,2 @@
 # San-Antonio-Spurs-Playing-The-Beautiful-Game-Iron-Viz-2024-
-Data transformation process used to prepare the datasets needed for creating the dashboard - San Antonio Spurs: Playing The Beautiful Game. The visualisation was created for the 2024 Iron Viz Qualifiers and can be accessed using this link: https://public.tableau.com/app/profile/dave.heng4779/viz/SanAntonioSpursPlayingTheBeautifulGame/LandingPage.
+Data transformation process used to prepare the datasets needed for creating the dashboard - San Antonio Spurs: Playing The Beautiful Game. The visualisation was created for the 2024 Iron Viz Qualifiers and can be accessed using this link: https://public.tableau.com/app/profile/dave.heng4779/viz/SanAntonioSpursPlayingTheBeautifulGame/LandingPage
